@@ -7,4 +7,5 @@ numpy
 
 A simple algorithmic trading bot that calculates **Chaikin Volatility (CV)** in real-time.
 
-![Chaikin Volatility Chart](https://github.com/Sigmaaaaaaa/Chaikin-Volatility/blob/fc9e58a48d0595d86a0484ef3e28bdaeacdf8281/f7f08616-068f-40fd-8614-18f28fa29354.jpeg)
+![Chaikin Volatility Chart](https://github.com/Sigmaaaaaaa/Chaikin-Volatility/blob/3e69e798bc26d7084362194ddc6726d858ab91a3/f7f08616-068f-40fd-8614-18f28fa29354.jpeg?raw=true)
+

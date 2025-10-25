@@ -1,3 +1,10 @@
 MetaTrader5
 pandas
 numpy
+
+
+# 📊 Chaikin Volatility Bot (MetaTrader 5 + Python)
+
+A simple algorithmic trading bot that calculates **Chaikin Volatility (CV)** in real-time.
+
+![Chaikin Volatility Chart](images/chaikin_chart.png)
